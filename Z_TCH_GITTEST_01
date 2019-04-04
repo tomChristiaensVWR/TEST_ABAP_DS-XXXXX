@@ -1,0 +1,2 @@
+program Z_TCH_GITTEST_01.
+write: / 'This is the first GITTEST'.
